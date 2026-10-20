@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/coleifer/sqlite3-bloomfilter/commit/3b39d6eb8615269cd146bd52b73c5786bb7b65d4",
       "git:hexsha": "3b39d6eb8615269cd146bd52b73c5786bb7b65d4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:54:25.233319+00:00"
     }
   ]
 }
