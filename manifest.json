@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "sqlite3-bloomfilter",
+  "versions": [
+    {
+      "commit": "3b39d6eb8615269cd146bd52b73c5786bb7b65d4",
+      "parsed_at": "2026-10-20T20:52:13.821109+00:00",
+      "filetree": "filetree/3b39d6eb8615269cd146bd52b73c5786bb7b65d4.nq.gz",
+      "blobs": [
+        "blob/fb24810d3f855171c191a4a4e43a69ce6cc55696.nq.gz",
+        "blob/5414f97a8517eb4fb25ba6908a5ea27f9fbcdfc3.nq.gz",
+        "blob/ab688bf07037e7151f3f9da1aedbe2f3fb262c2a.nq.gz",
+        "blob/98c4c34201e5001df8962a3636a89b2a8486135e.nq.gz",
+        "blob/6ae448895cc6250b45a4b4666fca1e70d71b9661.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
